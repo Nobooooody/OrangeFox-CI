@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_12.1"
+export FOX_BRANCH="fox_11.0"
 export DT_LINK="https://github.com/TeamWin/android_device_xiaomi_natrium.git -b android-7.1"
 
 export DEVICE="natrium"
