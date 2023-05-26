@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/TeamWin/android_device_xiaomi_gemini.git -b android-7.1"
+export DT_LINK="https://github.com/TeamWin/android_device_xiaomi_gemini.git -b android-9.0"
 
 export DEVICE="gemini"
 export OEM="xiaomi"
