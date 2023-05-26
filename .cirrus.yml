@@ -21,7 +21,7 @@ task:
       memory: 20G
 
   Checks_script:
-      - bash -c "$(curl -sL https://raw.githubusercontent.com/AndroidAppsUsedByMyself/OrangeFox-CI/pstar/scripts/build.sh)"
+      - bash -c "$(curl -sL https://raw.githubusercontent.com/AndroidAppsUsedByMyself/OrangeFox-CI/pstar/scripts/checks.sh)"
 
   Sync_script:
       - bash -c "$(curl -sL https://raw.githubusercontent.com/AndroidAppsUsedByMyself/OrangeFox-CI/pstar/scripts/sync.sh)"
